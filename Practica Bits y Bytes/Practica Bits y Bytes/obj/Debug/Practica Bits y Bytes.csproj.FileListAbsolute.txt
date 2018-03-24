@@ -1,0 +1,20 @@
+C:\Users\ramon\Documents\Estructura de datos\Datos\Practica Bits y Bytes\Practica Bits y Bytes\bin\Debug\Practica Bits y Bytes.exe.config
+C:\Users\ramon\Documents\Estructura de datos\Datos\Practica Bits y Bytes\Practica Bits y Bytes\bin\Debug\Practica Bits y Bytes.exe
+C:\Users\ramon\Documents\Estructura de datos\Datos\Practica Bits y Bytes\Practica Bits y Bytes\bin\Debug\Practica Bits y Bytes.pdb
+C:\Users\ramon\Documents\Estructura de datos\Datos\Practica Bits y Bytes\Practica Bits y Bytes\obj\Debug\Practica Bits y Bytes.csprojResolveAssemblyReference.cache
+C:\Users\ramon\Documents\Estructura de datos\Datos\Practica Bits y Bytes\Practica Bits y Bytes\obj\Debug\Practica_Bits_y_Bytes.Form1.resources
+C:\Users\ramon\Documents\Estructura de datos\Datos\Practica Bits y Bytes\Practica Bits y Bytes\obj\Debug\Practica_Bits_y_Bytes.Properties.Resources.resources
+C:\Users\ramon\Documents\Estructura de datos\Datos\Practica Bits y Bytes\Practica Bits y Bytes\obj\Debug\Practica Bits y Bytes.csproj.GenerateResource.Cache
+C:\Users\ramon\Documents\Estructura de datos\Datos\Practica Bits y Bytes\Practica Bits y Bytes\obj\Debug\Practica Bits y Bytes.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Estructura de datos\Datos\Practica Bits y Bytes\Practica Bits y Bytes\obj\Debug\Practica Bits y Bytes.exe
+C:\Users\ramon\Documents\Estructura de datos\Datos\Practica Bits y Bytes\Practica Bits y Bytes\obj\Debug\Practica Bits y Bytes.pdb
+C:\Users\DELL\Documents\tareas 4 semestre\Practica Bits y Bytes\Practica Bits y Bytes\bin\Debug\Practica Bits y Bytes.exe.config
+C:\Users\DELL\Documents\tareas 4 semestre\Practica Bits y Bytes\Practica Bits y Bytes\bin\Debug\Practica Bits y Bytes.exe
+C:\Users\DELL\Documents\tareas 4 semestre\Practica Bits y Bytes\Practica Bits y Bytes\bin\Debug\Practica Bits y Bytes.pdb
+C:\Users\DELL\Documents\tareas 4 semestre\Practica Bits y Bytes\Practica Bits y Bytes\obj\Debug\Practica Bits y Bytes.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\tareas 4 semestre\Practica Bits y Bytes\Practica Bits y Bytes\obj\Debug\Practica_Bits_y_Bytes.Form1.resources
+C:\Users\DELL\Documents\tareas 4 semestre\Practica Bits y Bytes\Practica Bits y Bytes\obj\Debug\Practica_Bits_y_Bytes.Properties.Resources.resources
+C:\Users\DELL\Documents\tareas 4 semestre\Practica Bits y Bytes\Practica Bits y Bytes\obj\Debug\Practica Bits y Bytes.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\tareas 4 semestre\Practica Bits y Bytes\Practica Bits y Bytes\obj\Debug\Practica Bits y Bytes.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\tareas 4 semestre\Practica Bits y Bytes\Practica Bits y Bytes\obj\Debug\Practica Bits y Bytes.exe
+C:\Users\DELL\Documents\tareas 4 semestre\Practica Bits y Bytes\Practica Bits y Bytes\obj\Debug\Practica Bits y Bytes.pdb
